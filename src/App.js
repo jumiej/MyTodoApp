@@ -1,6 +1,4 @@
 import './App.css';
-import Todo from './components/Todo';
-import InlineComponent from './components/InlineComponent';
 import Form from './components/Form';
 import Header from './components/Header';
 import { useState } from 'react';
